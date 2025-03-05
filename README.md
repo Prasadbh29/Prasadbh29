@@ -18,7 +18,6 @@
 # 📊 GitHub Stats:
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasadbh29&theme=dark&hide_border=false" height="200px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadbh29&theme=dark&hide_border=false&layout=compact" height="200px"/>
   
   <br/>
