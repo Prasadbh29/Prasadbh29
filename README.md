@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasad Bhagyawant</h1>
-<h3 align="center">"Crafting seamless digital experiences – Passionate Frontend Developer from India 🇮🇳"</h3>
+<h3 align="center">"Crafting seamless digital experiences – Passionate Frontend Developer from India &#127470;&#127475;"</h3>
+
 
 - 📫 How to reach me **prasadbhagyawant944@gmail.com**
 
