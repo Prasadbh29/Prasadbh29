@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasad Bhagyawant</h1>
-<h3 align="center">"Crafting seamless digital experiences – Passionate Frontend Developer from India 🇮🇳"</h3>
+<h3 align="center">"Crafting seamless digital experiences – Passionate Frontend Developer from India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="20px"></h3>
+
 
 
 
